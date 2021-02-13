@@ -16,3 +16,7 @@
 - Day10 : 복습
 - Day11,12 : chapter3 끝까지
 - Day13,14 : 졸업작품
+
+### 참고자료
+
+[addEventListener](https://developer.mozilla.org/ko/docs/Web/Events)
