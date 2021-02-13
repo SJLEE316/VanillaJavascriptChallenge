@@ -1,0 +1,17 @@
+body {
+  background-color: #b39ddb;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+h2 {
+  color: white;
+}
+
+.viewport {
+  display: flex;
+  flex-direction: column;
+}

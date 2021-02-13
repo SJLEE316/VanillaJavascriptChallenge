@@ -11,5 +11,8 @@
   - day5 폴더의 greeting.js 이어서 작성함
   - todo.js를 day5 index.html에 연결
 - Day7 : 휴일
-- Day8~9 : 3.5~3.7
+- Day8,9 : 3.5~3.7
   - day6 폴더의 todo.js에 이어서 작성함
+- Day10 : 복습
+- Day11,12 : chapter3 끝까지
+- Day13,14 : 졸업작품
