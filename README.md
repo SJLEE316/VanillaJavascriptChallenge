@@ -1,5 +1,9 @@
 ## Nomad Coder Vanilla Javascript Challenge
 
+<br>
+
+![Certificate](./Certificate.PNG)
+
 ### start 2021.01.11
 
 - Day1 : 1.1~1.5
@@ -16,7 +20,7 @@
 - Day10 : 복습
 - Day11,12 : chapter3 끝까지
   - solution 제대로 작동 안하는 듯..? 내 코드로 확인
-- Day13,14 : 졸업작품
+- Day13,14 : [졸업작품](https://sjlee316.github.io/VanillaJavascript-App/)
 
 ### finish 2021.01.24
 
