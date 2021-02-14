@@ -15,6 +15,7 @@
   - day6 폴더의 todo.js에 이어서 작성함
 - Day10 : 복습
 - Day11,12 : chapter3 끝까지
+  - solution 제대로 작동 안하는 듯..? 내 코드로 확인
 - Day13,14 : 졸업작품
 
 ### finish 2021.01.24
